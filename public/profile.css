@@ -1,0 +1,42 @@
+body {
+    background-image: url("dark-triangles.png"); background-size: 1285px 850px
+}
+.button {
+    background-color: blue;*/
+    border: none;
+    color: white;
+    padding: 13px 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {border-radius: 8px;}
+.img-circle {
+    border-radius: 50%;
+}
+
+h1 {
+	color: white; font-family: 'Purisa'; font-size: 40px
+}
+
+h2 {
+	color:white; font-family: 'Purisa';
+}
+
+p {
+	color:white;
+	font-family: 'Play', sans-serif;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.space{
+    margin: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
